@@ -1,0 +1,501 @@
+price,year,manufacturer,model,condition,cylinders,fuel,odometer,transmission,drive,type,paint_color
+33590,2014,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923,other,,pickup,white
+22590,2010,chevrolet,silverado 1500,good,8 cylinders,gas,71229,other,,pickup,blue
+39590,2020,chevrolet,silverado 1500 crew,good,8 cylinders,gas,19160,other,,pickup,red
+30990,2017,toyota,tundra double cab sr,good,8 cylinders,gas,41124,other,,pickup,red
+15000,2013,ford,f-150 xlt,excellent,6 cylinders,gas,128000,automatic,rwd,truck,black
+27990,2012,gmc,sierra 2500 hd extended cab,good,8 cylinders,gas,68696,other,4wd,pickup,black
+34590,2016,chevrolet,silverado 1500 double,good,6 cylinders,gas,29499,other,4wd,pickup,silver
+35000,2019,toyota,tacoma,excellent,6 cylinders,gas,43000,automatic,4wd,truck,grey
+29990,2016,chevrolet,colorado extended cab,good,6 cylinders,gas,17302,other,4wd,pickup,red
+38590,2011,chevrolet,corvette grand sport,good,8 cylinders,gas,30237,other,rwd,other,red
+4500,1992,jeep,cherokee,excellent,6 cylinders,gas,192000,automatic,4wd,,
+32990,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,30041,other,4wd,other,silver
+24590,2017,chevrolet,silverado 1500 regular,good,6 cylinders,gas,40784,other,,pickup,white
+30990,2016,chevrolet,colorado crew cab z71,good,,other,34940,other,4wd,pickup,blue
+27990,2014,toyota,tacoma access cab pickup,good,,other,17805,other,,pickup,red
+37990,2016,chevrolet,camaro ss coupe 2d,good,8 cylinders,gas,9704,other,rwd,coupe,red
+33590,2014,toyota,tundra crewmax sr5 pickup,good,,other,55251,other,,pickup,red
+30990,2019,ford,ranger supercrew xl pickup,good,,other,1834,other,,pickup,black
+27990,2018,nissan,frontier crew cab pro-4x,good,6 cylinders,gas,37332,other,4wd,pickup,silver
+34590,2018,ford,f150 super cab xl pickup 4d,good,6 cylinders,gas,20856,other,,pickup,white
+30590,2016,toyota,tacoma double cab sr5,good,,other,30176,other,,pickup,red
+32990,2020,jeep,wrangler sport suv 2d,good,,gas,20581,other,4wd,SUV,silver
+38990,2020,ford,f150 supercrew cab xlt,good,6 cylinders,gas,12231,other,,pickup,
+22590,2017,ram,1500 regular cab tradesman,good,8 cylinders,gas,39508,other,,pickup,white
+31590,2020,mazda,mx-5 miata club,good,,gas,2195,other,rwd,other,
+27990,2020,ford,ranger supercab xl pickup,good,,gas,10688,other,,pickup,white
+31590,2019,cadillac,xt4 sport suv 4d,good,,other,12102,other,fwd,hatchback,black
+19900,2004,ford,f250 super duty,good,8 cylinders,diesel,88000,automatic,4wd,pickup,blue
+16590,2016,jeep,renegade sport suv 4d,good,,gas,35835,other,4wd,other,red
+26990,2016,ford,f150 regular cab xl pickup,good,6 cylinders,gas,14230,other,,pickup,black
+25590,2015,gmc,sierra 1500 regular cab,good,6 cylinders,other,35290,other,,pickup,white
+14000,2012,honda,odyssey,excellent,6 cylinders,gas,95000,automatic,fwd,mini-van,silver
+28590,2018,ram,1500 quad cab express pickup,good,6 cylinders,other,30047,other,,pickup,white
+24590,2013,gmc,sierra 1500 extended cab slt,good,8 cylinders,other,80318,other,,pickup,
+25990,2019,ram,1500 classic regular cab,good,8 cylinders,gas,12302,other,,pickup,white
+34990,2018,ford,mustang gt premium,good,8 cylinders,gas,18650,other,rwd,other,black
+27990,2017,chevrolet,colorado extended cab,good,,gas,22120,other,,pickup,
+22500,2001,ford,f450,good,8 cylinders,diesel,144700,manual,rwd,truck,white
+32990,2019,chevrolet,silverado 1500 ld,good,,other,6897,other,,pickup,black
+31990,2013,toyota,tundra double cab pickup,good,8 cylinders,gas,55068,other,4wd,pickup,
+29990,2014,chevrolet,silverado 1500 double,good,8 cylinders,gas,26129,other,4wd,pickup,brown
+23990,2016,chevrolet,silverado 1500 regular,good,6 cylinders,gas,41568,other,,pickup,white
+22990,2012,toyota,tacoma access cab pickup,good,,gas,37725,other,,pickup,white
+26990,2014,chevrolet,silverado 1500 crew,good,6 cylinders,gas,63129,automatic,,pickup,black
+33990,2017,jeep,wrangler unlimited sahara,good,6 cylinders,other,34152,other,4wd,SUV,white
+15000,2017,dodge,charger rt 4dr sedan,excellent,8 cylinders,gas,90000,automatic,rwd,sedan,grey
+26590,2020,honda,civic si coupe 2d,good,,gas,9954,other,fwd,coupe,silver
+18590,2018,honda,civic lx sedan 4d,good,,gas,28942,other,fwd,sedan,white
+29590,2017,ford,expedition xlt sport,good,6 cylinders,gas,70760,other,4wd,SUV,blue
+21590,2018,honda,civic ex sedan 4d,good,,gas,7885,other,fwd,sedan,
+22590,2013,ford,f150 super cab xl pickup 4d,good,6 cylinders,other,14169,other,,pickup,silver
+33990,2020,jeep,wrangler sport suv 2d,good,6 cylinders,gas,9859,other,4wd,other,
+29990,2012,toyota,tacoma double cab pickup,good,6 cylinders,gas,43182,other,4wd,pickup,white
+37590,2019,ford,f150 supercrew cab xl,good,6 cylinders,gas,8663,other,,pickup,
+25990,2015,lexus,nx 300h sport utility 4d,good,,other,55783,other,,hatchback,white
+32990,2018,jaguar,e-pace p250 s sport,good,,other,26685,other,,other,white
+28990,2020,buick,encore gx essence sport,good,,gas,21,other,,other,white
+34990,2020,lexus,nx 300 sport utility 4d,good,,gas,1722,other,fwd,hatchback,black
+3000,2004,chrysler,town & country,good,6 cylinders,gas,176144,automatic,fwd,mini-van,silver
+22590,2016,volvo,s60 t5 cross country,good,,gas,42755,other,,sedan,
+36990,2019,volvo,s60 t6 inscription sedan,good,,gas,8141,other,,sedan,white
+31990,2020,volvo,s60 t5 momentum sedan 4d,good,,gas,16594,other,fwd,sedan,
+28590,2019,volvo,s60 t5 momentum sedan 4d,good,,gas,18531,other,fwd,sedan,black
+31990,2018,audi,q5 premium sport utility 4d,good,,gas,19179,other,,other,
+19990,2015,infiniti,qx60 3.5 sport utility,good,,other,96003,other,,SUV,silver
+29590,2017,lincoln,continental select sedan,good,6 cylinders,gas,35320,other,,sedan,black
+29990,2018,alfa-romeo,romeo stelvio ti sport,good,,other,26978,other,,hatchback,
+2100,2006,subaru,impreza,fair,4 cylinders,gas,97000,automatic,,hatchback,
+80,2004,honda,,excellent,6 cylinders,gas,94020,automatic,,,
+15990,2016,,Scion iM Hatchback 4D,good,,gas,29652,other,fwd,hatchback,blue
+20590,2013,acura,mdx sport utility 4d,good,6 cylinders,gas,77087,other,,other,silver
+29590,2018,audi,a6 2.0t premium sedan 4d,good,,gas,13035,other,fwd,sedan,
+16590,2015,hyundai,sonata sport sedan 4d,good,,gas,26655,other,fwd,sedan,white
+12990,1968,volvo,,,,gas,99999,manual,,,
+33990,2017,ram,1500 crew cab tradesman,good,8 cylinders,gas,17033,other,4wd,pickup,blue
+36590,2019,gmc,sierra 1500 limited double,good,8 cylinders,gas,14222,other,4wd,pickup,blue
+29590,2013,gmc,sierra 1500 extended cab slt,good,8 cylinders,gas,37888,other,,pickup,silver
+40590,2019,ford,f250 super duty regular cab,good,8 cylinders,other,9313,other,4wd,pickup,white
+33990,2018,jeep,wrangler unlimited willys,good,6 cylinders,gas,34636,other,4wd,other,white
+43990,2019,jeep,wrangler unlimited sahara,good,,gas,4362,other,4wd,SUV,black
+38990,2017,jeep,wrangler unlimited rubicon,good,6 cylinders,gas,20676,other,4wd,other,red
+39590,2018,jeep,wrangler unlimited all new,good,6 cylinders,gas,21893,other,4wd,SUV,silver
+9500,2003,chrysler,town & country,excellent,6 cylinders,gas,30376,automatic,fwd,mini-van,blue
+28590,2018,gmc,acadia sle-2 sport utility,good,6 cylinders,gas,20736,other,fwd,SUV,white
+16590,2013,lincoln,mkz sedan 4d,good,,gas,61087,other,fwd,sedan,red
+28990,2017,gmc,acadia slt-1 sport utility,good,6 cylinders,gas,18041,other,fwd,SUV,
+20590,2017,lincoln,mkz premiere sedan 4d,good,,gas,36436,other,fwd,sedan,
+26990,2015,lexus,nx 200t sport utility 4d,good,,gas,29738,other,fwd,hatchback,red
+26990,2016,lexus,nx 200t sport utility 4d,good,,gas,31363,other,fwd,hatchback,white
+22590,2020,buick,encore gx select sport,good,,other,5144,other,,SUV,red
+35990,2018,jaguar,e-pace p250 se sport,good,,gas,8490,other,,other,black
+17500,2008,toyota,fj cruiser,good,6 cylinders,gas,201300,manual,4wd,offroad,black
+6000,2007,mercedes-benz,e320 cdi,good,6 cylinders,diesel,124000,automatic,rwd,sedan,blue
+25990,2018,volvo,s60 t5 inscription sedan,good,,diesel,22834,other,,sedan,
+6800,2005,,blue bird bus,excellent,6 cylinders,diesel,180000,automatic,rwd,bus,yellow
+36590,2019,volvo,s60 t6 r-design sedan 4d,good,,gas,7618,other,,sedan,white
+35990,2019,volvo,s60 t6 r-design sedan 4d,good,,other,15567,other,,sedan,red
+33590,2019,volvo,s60 t6 r-design sedan 4d,good,,gas,10742,other,,sedan,silver
+38990,2020,infiniti,qx60 luxe sport utility,good,6 cylinders,gas,5279,other,fwd,other,black
+33990,2018,alfa-romeo,romeo stelvio ti sport suv,good,,gas,23753,other,,hatchback,
+27990,2017,lincoln,continental select sedan,good,6 cylinders,gas,19492,automatic,,sedan,
+28590,2018,audi,q5 premium sport utility 4d,good,,gas,31033,other,,SUV,silver
+18590,2018,hyundai,sonata sel sedan 4d,good,,gas,22075,other,fwd,sedan,white
+29990,2018,audi,a6 2.0t premium plus sedan,good,,other,24996,automatic,,sedan,silver
+14990,2016,,Scion iM Hatchback 4D,good,,gas,65203,other,fwd,hatchback,red
+39990,2020,acura,mdx sh-awd sport utility,good,6 cylinders,gas,1237,other,,other,white
+2500,1966,,1966 C-30 1 ton,good,6 cylinders,gas,47000,manual,rwd,pickup,brown
+4000,2006,jeep,grand cherokee laredo,good,6 cylinders,gas,281000,automatic,rwd,SUV,black
+32990,2019,jeep,wrangler sport suv 2d,good,6 cylinders,other,1423,other,4wd,SUV,yellow
+27590,2012,jeep,wrangler unlimited sport,good,6 cylinders,gas,52172,other,4wd,SUV,black
+18590,2017,toyota,camry le sedan 4d,good,,gas,30223,other,fwd,sedan,silver
+33590,2017,ram,1500 crew cab laramie pickup,good,,other,45464,other,,pickup,red
+40990,2017,jeep,wrangler unlimited rubicon,good,,other,30092,other,4wd,other,black
+33590,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,37919,other,4wd,SUV,black
+31590,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,35391,other,4wd,SUV,black
+30990,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,43039,other,4wd,SUV,silver
+14590,2012,bmw,1 series 128i coupe 2d,good,,other,80465,other,,coupe,black
+20590,2018,chrysler,300 limited sedan 4d,good,6 cylinders,gas,71021,other,rwd,sedan,black
+19990,2020,mitsubishi,outlander sport es,good,,other,11103,other,,hatchback,orange
+10990,2013,nissan,sentra s sedan 4d,good,,gas,81557,other,fwd,sedan,red
+26990,2018,gmc,acadia sle-2 sport utility,good,6 cylinders,gas,26514,other,fwd,SUV,
+36590,2020,gmc,acadia denali sport utility,good,6 cylinders,gas,33026,other,,SUV,black
+30990,2020,gmc,acadia slt sport utility 4d,good,6 cylinders,gas,35200,other,,SUV,white
+24590,2018,lincoln,mkz select sedan 4d,good,,gas,16081,automatic,fwd,sedan,white
+8990,2013,,smart fortwo Passion Hatchback,good,,gas,59072,automatic,rwd,coupe,silver
+23990,2015,lexus,nx 200t sport utility 4d,good,,other,48462,other,,hatchback,silver
+25590,2020,buick,encore gx select sport,good,,gas,1113,automatic,fwd,SUV,red
+52990,2020,jaguar,e-pace p300 r-dynamic se,good,,gas,79,other,,other,white
+19000,2017,subaru,forester,like new,4 cylinders,gas,22700,automatic,,SUV,red
+28000,2018,acura,tlx,excellent,,gas,55000,automatic,fwd,sedan,white
+17590,2015,volvo,s60 t5 premier sedan 4d,good,,gas,63512,automatic,,sedan,blue
+36590,2020,volvo,s60 t6 r-design sedan 4d,good,,gas,18506,other,,sedan,blue
+35990,2020,volvo,s60 t6 inscription sedan,good,,other,11878,other,,sedan,blue
+38590,2019,volvo,s60 t8 r-design sedan 4d,good,,gas,14054,automatic,,sedan,black
+29590,2018,lincoln,continental select sedan,good,6 cylinders,other,33047,automatic,,sedan,white
+32590,2018,alfa-romeo,romeo stelvio sport suv 4d,good,,other,14863,other,,hatchback,blue
+27590,2018,infiniti,qx60 3.5 sport utility,good,6 cylinders,gas,41119,automatic,,SUV,blue
+38990,2020,audi,q5 45 tfsi premium plus,good,,gas,19067,other,,SUV,white
+21950,2012,toyota,tacoma 4x4,excellent,4 cylinders,gas,143060,manual,4wd,truck,silver
+13950,2011,toyota,tacoma,good,4 cylinders,gas,151060,automatic,rwd,truck,silver
+5900,2001,,F-350,,8 cylinders,diesel,200000,automatic,rwd,,
+12950,2005,bmw,z4,excellent,6 cylinders,gas,69586,automatic,rwd,convertible,white
+18950,2010,ford,f150 lariat supercrew 4x4,good,8 cylinders,gas,151403,automatic,4wd,pickup,black
+6995,2011,volkswagen,jetta sel,excellent,5 cylinders,gas,172752,automatic,fwd,sedan,black
+12500,2008,ford,ranger xlt,excellent,6 cylinders,gas,141345,automatic,rwd,truck,grey
+16950,2007,toyota,tacoma double cab,good,6 cylinders,gas,156792,automatic,rwd,truck,white
+22950,2014,ford,f150 supercrew cab xlt,excellent,8 cylinders,gas,166380,automatic,4wd,truck,black
+12950,2011,honda,crv ex,excellent,4 cylinders,gas,87994,automatic,fwd,SUV,silver
+12950,2007,mazda,mx-5 miata touring,excellent,4 cylinders,gas,90610,automatic,rwd,convertible,black
+13950,2011,mazda,mx-5 miata grand touring,excellent,4 cylinders,gas,138235,automatic,rwd,convertible,red
+19950,2009,porsche,boxster,excellent,6 cylinders,gas,80190,automatic,rwd,convertible,red
+13950,2008,mazda,miata,excellent,4 cylinders,gas,86650,manual,rwd,convertible,grey
+10950,2009,lexus,rx350,excellent,6 cylinders,gas,191955,automatic,4wd,SUV,white
+13950,2006,lexus,gx470,good,8 cylinders,gas,178790,automatic,4wd,SUV,
+1800,1998,toyota,rav4,good,4 cylinders,gas,240537,manual,,,green
+21250,2002,ford,thunderbird,new,8 cylinders,gas,15996,automatic,fwd,convertible,yellow
+4500,2008,ford,mustang,,6 cylinders,gas,187016,automatic,rwd,coupe,red
+39590,2020,chevrolet,silverado 1500 crew,good,8 cylinders,gas,19160,other,,pickup,red
+26990,2017,nissan,titan single cab sv,good,8 cylinders,gas,41335,other,4wd,pickup,red
+4299,2007,nissan,sentra,,4 cylinders,gas,189321,automatic,fwd,sedan,silver
+3950,2008,kia,spectra ex,excellent,4 cylinders,gas,247377,automatic,,sedan,
+5900,1998,ford,f150,excellent,8 cylinders,gas,214000,automatic,,truck,red
+33990,,,lac XT5 Crossover,,6 cylinders,gas,48784,automatic,fwd,SUV,black
+34995,2012,dodge,charger limousine,,,gas,41000,automatic,,,
+3200,2005,ford,focus,good,4 cylinders,gas,189886,automatic,,,
+3495,1999,ford,windstar,good,6 cylinders,gas,135448,automatic,,,
+6500,2002,ford,sport trac,good,6 cylinders,gas,114775,automatic,,,
+16988,2008,toyota,fj cruiser,,,gas,188099,automatic,4wd,,
+16988,2018,nissan,altima,,,gas,57517,automatic,fwd,,silver
+26990,2018,nissan,frontier,,,gas,31814,automatic,rwd,,black
+32186,2021,toyota,tacoma,,,gas,1443,automatic,rwd,,
+16477,2015,buick,enclave,,,gas,103969,automatic,fwd,,black
+58977,2019,gmc,sierra 3500,,,gas,66368,automatic,4wd,,white
+30990,2016,chevrolet,silverado 1500 double,good,6 cylinders,gas,58116,other,,pickup,silver
+6900,2009,honda,ridgeline,fair,,gas,198000,automatic,4wd,,
+3750,1997,ford,f150,,,gas,150000,automatic,,,
+2500,1976,chevrolet,malibu classic,,,gas,100,automatic,,,
+3500,2003,toyota,camry,good,4 cylinders,gas,237000,automatic,,,
+1300,1969,mercedes-benz,benz,,,gas,12774,automatic,,,
+25990,2016,bmw,5 series,,6 cylinders,gas,75123,automatic,,sedan,black
+8000,2013,kia,optima,excellent,4 cylinders,gas,119000,automatic,,,white
+32000,2008,chevrolet,silverado 2500,good,8 cylinders,diesel,109600,automatic,4wd,truck,white
+3399,2006,buick,lacrosse,,6 cylinders,gas,160218,automatic,fwd,sedan,blue
+4000,2002,toyota,echo,excellent,4 cylinders,gas,155000,automatic,fwd,sedan,blue
+3900,2009,hyundai,elantra,,4 cylinders,gas,162005,automatic,rwd,sedan,white
+3000,2004,chevrolet,blazer,good,6 cylinders,gas,131500,automatic,4wd,SUV,white
+2800,2009,nissan,versa,,,gas,109000,automatic,,,
+2500,1995,bmw,525i,fair,6 cylinders,gas,110661,automatic,rwd,sedan,white
+53000,2006,,Sterling Acterra,,,diesel,160322,automatic,,,
+33590,2014,gmc,sierra 1500 crew cab slt,good,8 cylinders,gas,57923,other,,pickup,white
+12500,2008,gmc,yukon xl,excellent,8 cylinders,gas,177326,automatic,rwd,SUV,black
+15990,2017,ford,c-max hybrid se wagon 4d,good,,hybrid,48195,other,fwd,wagon,blue
+2500,2008,honda,accord,good,6 cylinders,gas,204561,automatic,fwd,sedan,silver
+20995,2011,chevrolet,silverado 1500 ltz crew cab 4wd,,,,137701,automatic,4wd,pickup,
+25995,2015,chevrolet,silverado 1500 lt crew cab 4wd,,,,151681,automatic,4wd,pickup,
+31995,2014,chevrolet,silverado 1500 2lt crew cab long box 4wd,,,,66738,automatic,4wd,pickup,
+5500,1978,ford,f-150,good,8 cylinders,gas,239000,automatic,,truck,green
+29000,2005,ford,f750,,,diesel,77124,automatic,,,
+27990,2012,gmc,sierra 2500 hd extended cab,good,8 cylinders,gas,68696,other,4wd,pickup,black
+24990,2018,gmc,canyon extended cab pickup,good,,other,32329,other,,pickup,
+10990,2011,mercedes-benz,ml350,excellent,6 cylinders,gas,119172,automatic,4wd,SUV,
+3300,1999,chrysler,300m,,6 cylinders,gas,162026,automatic,fwd,sedan,
+27000,1954,ford,f100,,,gas,6000,manual,,,
+27995,2017,ford,f-150,,,gas,101000,automatic,4wd,,
+8100,2011,ford,escape,excellent,6 cylinders,hybrid,140000,automatic,fwd,SUV,white
+20000,1979,chevrolet,malibu,like new,8 cylinders,gas,1234,automatic,rwd,,black
+3999,2003,infiniti,g35 sedan,,6 cylinders,gas,233830,automatic,rwd,sedan,
+23500,1970,chevrolet,monte carlo,excellent,,gas,18678,automatic,,,
+5300,2009,jeep,grand cherokee laredo,excellent,6 cylinders,gas,178000,automatic,4wd,,
+45900,2017,,Maserati Levante,,6 cylinders,gas,36083,automatic,,SUV,white
+5500,1974,mercedes-benz,1929 ssk replica,good,4 cylinders,gas,9999,automatic,rwd,convertible,yellow
+3500,1996,chevrolet,tahoe,excellent,8 cylinders,gas,237000,automatic,4wd,offroad,black
+16902,2020,toyota,corolla,,,gas,11692,automatic,fwd,,black
+12307,2018,kia,soul,,,gas,95056,automatic,fwd,,red
+37500,2018,ford,f-150,,,gas,30026,automatic,4wd,,blue
+21688,2020,nissan,kicks,,,gas,7575,automatic,fwd,,
+29990,2016,chevrolet,colorado extended cab,good,6 cylinders,gas,17302,other,4wd,pickup,red
+35590,2010,chevrolet,corvette convertible,good,8 cylinders,gas,31879,other,rwd,other,red
+18977,2017,kia,sorento,,,gas,70014,automatic,fwd,,
+6877,2007,nissan,pathfinder,,,gas,155471,automatic,rwd,,
+500,2021,,SPECIAL FINANCE PROGRAM 2020,fair,other,other,1400,other,,bus,green
+12500,2015,volkswagen,passat tdi,excellent,,diesel,101000,automatic,,,white
+27998,2008,porsche,cayman,,6 cylinders,gas,69505,automatic,rwd,coupe,black
+6800,2004,mercedes-benz,clk320,good,6 cylinders,gas,116700,automatic,rwd,convertible,silver
+45000,2017,chevrolet,silverado,excellent,8 cylinders,gas,92000,automatic,4wd,truck,red
+2550,2004,cadillac,srx,,6 cylinders,gas,224105,automatic,rwd,SUV,white
+12500,2015,ford,taurus,like new,,gas,90000,automatic,fwd,,white
+3800,2011,nissan,altima,,,gas,155000,automatic,,,
+2500,1987,,1987 Saab 900 Turbo,fair,4 cylinders,gas,125000,manual,fwd,coupe,silver
+2975,2006,,Suzuki XL-7,,6 cylinders,gas,217353,automatic,rwd,SUV,white
+7980,2013,bmw,x3,,4 cylinders,gas,156295,manual,rwd,SUV,white
+7800,2005,honda,accord ex-l,excellent,4 cylinders,gas,155000,manual,,,
+9000,2008,mazda,miata mx-5,excellent,4 cylinders,gas,56700,automatic,rwd,convertible,white
+5980,2005,cadillac,sts,,8 cylinders,gas,129448,automatic,rwd,sedan,white
+13500,2000,chevrolet,corvette,like new,8 cylinders,gas,92000,manual,,hatchback,black
+19950,1955,chevrolet,bel air,good,8 cylinders,gas,96867,automatic,rwd,sedan,green
+5980,2005,acura,tl,,6 cylinders,gas,179721,automatic,fwd,sedan,silver
+2675,1996,toyota,camry,,4 cylinders,gas,164719,automatic,fwd,sedan,green
+5980,2006,nissan,murano,,6 cylinders,gas,178388,automatic,fwd,SUV,white
+34995,2018,ram,2500,,,diesel,211000,automatic,4wd,,
+6980,2011,kia,sorento,,6 cylinders,gas,182321,other,rwd,SUV,
+31990,2017,jeep,wrangler sport s utility 2d,good,6 cylinders,gas,891,other,4wd,other,white
+6980,2008,toyota,avalon,,6 cylinders,gas,158888,automatic,fwd,sedan,silver
+11500,2013,honda,odyssey ex,good,,gas,92000,automatic,,van,silver
+987654321,1960,chevrolet,,,,gas,999999,manual,,,
+2600,2000,buick,lesabre,,6 cylinders,gas,212061,automatic,fwd,sedan,blue
+4980,2007,ford,edge,,6 cylinders,gas,178095,automatic,4wd,sedan,white
+26995,2015,ford,f-350,,,diesel,247000,automatic,4wd,,
+27990,2014,toyota,tacoma access cab pickup,good,,other,17805,other,,pickup,red
+32990,2017,jeep,wrangler unlimited sport,good,6 cylinders,gas,30041,other,4wd,other,silver
+34995,2018,ram,1500,,,gas,104000,automatic,rwd,,
+5980,2010,gmc,terrain,,4 cylinders,gas,208359,manual,rwd,SUV,red
+4500,2014,ford,f250 xl,,,gas,250000,automatic,,,
+5480,2013,chevrolet,captiva sport,,4 cylinders,gas,182711,automatic,fwd,SUV,grey
+16990,2016,kia,forte koup ex coupe 2d,good,,gas,17631,other,fwd,coupe,
+37590,2019,ford,f150 supercrew cab xl,good,6 cylinders,gas,8663,other,,pickup,
+3975,2010,chevrolet,cobalt,,4 cylinders,gas,162455,automatic,fwd,sedan,silver
+6480,2008,buick,enclave,,6 cylinders,gas,183858,automatic,rwd,SUV,
+22900,2013,dodge,grand caravan,,6 cylinders,gas,68228,automatic,fwd,,silver
+24997,2014,mercedes-benz,m-class,,8 cylinders,gas,82553,automatic,,SUV,blue
+6700,2011,nissan,murano,excellent,6 cylinders,gas,184000,automatic,,,silver
+26500,2019,nissan,rogue sport,,,gas,9975,automatic,,,red
+27988,2020,nissan,altima,,,gas,15139,automatic,,,blue
+20870,2019,infiniti,qx30,,,gas,29938,automatic,fwd,,red
+26988,2018,nissan,pathfinder,,,gas,24274,automatic,4wd,,white
+19990,2017,subaru,legacy 2.5i premium sedan,good,,gas,10309,other,,sedan,white
+19877,2011,ram,2500,,,diesel,183284,automatic,,,white
+11977,2015,gmc,terrain,,,gas,106591,automatic,fwd,,silver
+29998,2014,mercedes-benz,cls,,8 cylinders,gas,57406,automatic,rwd,sedan,grey
+12895,1991,chevrolet,corvette,,8 cylinders,gas,43725,automatic,rwd,hatchback,
+3650,1999,jeep,grand cherokee,,6 cylinders,gas,151379,automatic,rwd,SUV,blue
+8500,2006,rover,,good,8 cylinders,gas,139445,automatic,4wd,SUV,white
+3299,2003,chevrolet,cavalier,,4 cylinders,gas,176354,automatic,fwd,coupe,
+4499,2005,toyota,camry,,4 cylinders,gas,170687,automatic,fwd,sedan,blue
+5940,2011,kia,soul,,4 cylinders,gas,163385,manual,rwd,wagon,white
+3999,2009,volvo,s60,,5 cylinders,gas,182005,automatic,fwd,sedan,silver
+8980,2011,jeep,grand cherokee,,6 cylinders,,173787,manual,rwd,SUV,silver
+4950,2001,toyota,4runner limited,,6 cylinders,gas,266000,automatic,rwd,SUV,white
+4980,2010,chevrolet,traverse,,6 cylinders,gas,208122,manual,rwd,SUV,silver
+4400,2006,buick,lacrosse,,6 cylinders,gas,124201,automatic,fwd,sedan,white
+8980,2010,dodge,charger,,8 cylinders,gas,207260,automatic,rwd,sedan,black
+33590,2014,toyota,tundra crewmax sr5 pickup,good,,other,55251,other,,pickup,red
+39590,2020,ford,mustang gt premium coupe 2d,good,8 cylinders,gas,1419,other,rwd,coupe,white
+26590,2017,honda,pilot lx sport utility 4d,good,6 cylinders,gas,13836,other,,other,blue
+21990,2018,buick,regal sportback preferred,good,,gas,4988,other,fwd,sedan,white
+19990,2017,hyundai,sonata plug-in hybrid,good,,hybrid,29254,manual,fwd,sedan,white
+30990,2019,ford,ranger supercrew xl pickup,good,,other,1834,other,,pickup,black
+6980,2006,nissan,pathfinder,,6 cylinders,gas,146779,automatic,rwd,SUV,silver
+4100,2010,hyundai,elantra touring,,4 cylinders,gas,130206,manual,fwd,wagon,grey
+7980,2015,kia,forte,,4 cylinders,gas,121682,automatic,fwd,sedan,black
+9980,2013,infiniti,jx35,,6 cylinders,gas,171226,automatic,fwd,SUV,white
+19500,2008,ram,3500,good,6 cylinders,diesel,161000,manual,4wd,truck,silver
+2300,1997,buick,lesabre,,6 cylinders,gas,201566,automatic,fwd,sedan,green
+10980,2007,gmc,yukon xl denali,,8 cylinders,gas,181633,automatic,,SUV,black
+15000,2009,toyota,tacoma 4x4,good,6 cylinders,gas,213800,automatic,4wd,truck,silver
+14897,2012,jeep,grand cherokee,,6 cylinders,gas,112510,other,rwd,SUV,silver
+11400,2013,kia,sportage,,4 cylinders,gas,92986,other,4wd,SUV,blue
+10980,2012,ford,mustang,,6 cylinders,gas,159559,manual,rwd,coupe,silver
+3500,1998,jeep,cherokee,,6 cylinders,gas,273000,automatic,4wd,SUV,white
+8950,2011,ford,f-150,excellent,6 cylinders,gas,164000,automatic,fwd,truck,white
+4000,1972,mercedes-benz,benz,fair,6 cylinders,gas,88100,automatic,rwd,coupe,silver
+50000,2019,toyota,tundra,like new,8 cylinders,gas,20010,automatic,4wd,truck,white
+3500,2009,hyundai,accent,,4 cylinders,gas,111387,automatic,fwd,sedan,white
+7480,2012,chrysler,300,,6 cylinders,gas,187910,automatic,rwd,sedan,blue
+1200,2005,chevrolet,impala,fair,4 cylinders,gas,256806,automatic,fwd,sedan,blue
+8888,2005,nissan,altima 3.5 sl,excellent,6 cylinders,gas,53320,automatic,fwd,sedan,brown
+26990,2016,toyota,tacoma,,6 cylinders,gas,102089,automatic,rwd,pickup,grey
+500,2021,,SPECIAL FINANCE PROGRAM 2020,fair,other,other,1400,other,,bus,green
+98900,2001,ferrari,360 modena,good,8 cylinders,gas,20187,automatic,rwd,convertible,red
+15277,2017,mini,cooper,,,gas,94893,manual,fwd,,silver
+17977,2012,toyota,4runner,,,gas,182263,automatic,4wd,,black
+12250,2007,toyota,4runner sport edition,,,gas,189000,automatic,,,
+35495,,,Series,,4 cylinders,gas,14000,automatic,rwd,sedan,white
+16500,2011,ford,f250 super duty,excellent,8 cylinders,gas,201766,automatic,4wd,truck,white
+5800,2001,ford,crown vic,,,gas,105000,automatic,,,
+3999,2006,pontiac,grand prix,,6 cylinders,gas,207238,automatic,fwd,sedan,white
+6000,2011,acura,mdx,good,6 cylinders,gas,197331,automatic,,SUV,black
+9400,2008,mercedes-benz,benz c350,good,6 cylinders,gas,129473,automatic,rwd,sedan,silver
+3850,2003,dodge,durango,,8 cylinders,gas,215604,automatic,rwd,SUV,blue
+7900,2013,nissan,pathfinder,good,6 cylinders,gas,152400,automatic,fwd,SUV,white
+4300,2012,kia,soul,,4 cylinders,gas,174053,automatic,fwd,wagon,silver
+2800,2006,ford,taurus,,6 cylinders,gas,230108,automatic,fwd,sedan,white
+27995,2012,ford,f250 super duty,,,gas,47380,automatic,,,white
+3900,2010,chevrolet,cobalt,,4 cylinders,gas,162218,automatic,fwd,sedan,silver
+7300,2007,lexus,rx350,good,6 cylinders,gas,181000,automatic,fwd,SUV,white
+72900,2021,chevrolet,tahoe,good,8 cylinders,gas,19129,automatic,4wd,SUV,grey
+28900,2017,audi,q7,good,6 cylinders,gas,94601,automatic,4wd,SUV,white
+17000,2019,chevrolet,trax,good,4 cylinders,gas,14898,automatic,4wd,SUV,grey
+3350,2010,chevrolet,hhr,,4 cylinders,,177602,automatic,rwd,SUV,red
+199,2017,dodge,charger,,,gas,21737,automatic,,,
+5950,2007,mitsubishi,eclipse,good,4 cylinders,gas,72000,manual,fwd,hatchback,black
+24590,2017,chevrolet,silverado 1500 regular,good,6 cylinders,gas,40784,other,,pickup,white
+3999,2006,honda,accord sedan,,4 cylinders,gas,253076,automatic,fwd,sedan,silver
+8900,2013,toyota,prius,excellent,4 cylinders,hybrid,142900,automatic,fwd,wagon,blue
+9900,2016,,scion ia,excellent,4 cylinders,gas,21000,automatic,fwd,sedan,blue
+34590,2018,ford,f150 super cab xl pickup 4d,good,6 cylinders,gas,20856,other,,pickup,white
+39990,2019,nissan,370z nismo coupe 2d,good,6 cylinders,gas,8373,other,rwd,coupe,white
+30590,2016,toyota,tacoma double cab sr5,good,,other,30176,other,,pickup,red
+11587,2013,ford,escape,,4 cylinders,gas,215046,other,fwd,SUV,black
+4000,2002,toyota,camry,like new,4 cylinders,gas,160000,automatic,fwd,sedan,white
+2999,2007,ford,taurus,,6 cylinders,gas,162029,automatic,fwd,sedan,blue
+10800,2013,toyota,camry,excellent,4 cylinders,hybrid,147000,automatic,fwd,sedan,grey
+5500,2008,nissan,altima,like new,4 cylinders,gas,150000,automatic,fwd,sedan,white
+34500,2012,bmw,x6,,8 cylinders,gas,53723,automatic,,,
+3200,1988,chevrolet,s10 pickup,,,gas,191000,automatic,,,
+500,2021,,SPECIAL FINANCE PROGRAM 2020,fair,other,other,1400,other,,bus,green
+19990,2020,nissan,versa,,,gas,6591,automatic,fwd,,black
+26990,2020,nissan,frontier,,,gas,323,automatic,rwd,,red
+31988,2019,nissan,murano,,,gas,15566,automatic,fwd,,blue
+11977,2009,toyota,venza,,,gas,76662,automatic,,,red
+35990,2016,dodge,challenger r/t scat pack,good,,other,18955,other,rwd,coupe,black
+34990,2018,ram,1500 quad cab big horn,good,6 cylinders,other,22064,other,4wd,pickup,silver
+38995,2012,ford,f-250 super duty,,,gas,9205,automatic,4wd,,white
+10500,2013,volkswagen,passat tdi sel,excellent,,diesel,91000,automatic,,,black
+18250,2016,ford,explorer xlt,excellent,,gas,69000,automatic,,,blue
+19900,2017,ford,explorer xlt,excellent,,gas,71000,automatic,,,silver
+10500,2014,volkswagen,jetta tdi,excellent,,diesel,52000,automatic,,,grey
+3500,1994,ford,f450,fair,8 cylinders,diesel,190000,manual,rwd,truck,white
+31990,2016,chevrolet,silverado 1500,,8 cylinders,,107597,automatic,4wd,pickup,white
+6800,2005,,blue bird bus,excellent,6 cylinders,diesel,180000,automatic,rwd,bus,yellow
+5500,1999,,blue bird bus,excellent,6 cylinders,diesel,220000,automatic,rwd,bus,yellow
+36990,2018,toyota,4runner sr5 sport utility,good,6 cylinders,gas,21415,other,4wd,other,silver
+23590,2017,nissan,frontier king cab sv,good,,gas,37091,other,fwd,pickup,red
+17990,2013,subaru,xv crosstrek premium,good,,gas,57371,other,,hatchback,blue
+30990,2017,nissan,frontier crew cab pro-4x,good,6 cylinders,gas,31095,other,4wd,pickup,white
+21590,2017,buick,regal premium ii sedan 4d,good,,gas,14934,other,fwd,sedan,white
+21990,2019,toyota,camry l sedan 4d,good,,other,5607,other,,sedan,red
+16000,2016,dodge,charger,like new,6 cylinders,gas,62000,automatic,rwd,sedan,silver
+1500,2005,toyota,solara,good,4 cylinders,gas,222100,automatic,fwd,sedan,silver
+4500,2005,acura,mdx,,6 cylinders,gas,279000,automatic,,SUV,blue
+33995,2016,chevrolet,silverado 1500,,,gas,115000,automatic,4wd,,
+40000,2017,chevrolet,tahoe,like new,8 cylinders,gas,68000,automatic,rwd,SUV,silver
+39900,2015,lincoln,,,,gas,51,automatic,,,
+10500,2008,infiniti,ex35,good,6 cylinders,gas,122904,automatic,rwd,wagon,black
+9500,2014,toyota,prius v hybrid,good,4 cylinders,gas,136128,automatic,fwd,hatchback,white
+12900,2014,nissan,rogue sv,good,4 cylinders,gas,120211,automatic,fwd,SUV,red
+4275,2006,jeep,liberty,,6 cylinders,gas,174132,automatic,4wd,SUV,red
+3200,2006,chevrolet,trailblazer,good,6 cylinders,gas,178762,automatic,rwd,SUV,grey
+10000,2010,toyota,tundra,,,gas,180000,automatic,,,
+11995,2007,chevrolet,tahoe,,,gas,170865,automatic,4wd,,silver
+3399,2006,buick,lacrosse,,6 cylinders,gas,160218,automatic,fwd,sedan,blue
+17995,2017,ram,promaster 1500 cargo van,,,gas,147064,automatic,,,white
+3850,2010,volkswagen,jetta,,,gas,178000,automatic,,,
+3900,2009,hyundai,elantra,,4 cylinders,gas,162005,automatic,rwd,sedan,white
+6000,2004,subaru,baja,excellent,4 cylinders,gas,64000,automatic,4wd,,
+15897,2018,chevrolet,malibu,,4 cylinders,gas,65950,other,fwd,sedan,grey
+3300,1999,chrysler,300m,,6 cylinders,gas,162026,automatic,fwd,sedan,
+26995,2015,ford,f-350,,,diesel,232000,automatic,4wd,,
+6950,2011,volkswagen,jetta,excellent,5 cylinders,gas,116000,automatic,fwd,sedan,silver
+29995,2013,chevrolet,silverado 2500hd,,,diesel,173000,automatic,4wd,,
+22795,2015,mercedes-benz,c-class,,4 cylinders,gas,67870,automatic,,sedan,silver
+8995,2005,nissan,altima 3.5 sl,excellent,6 cylinders,gas,53320,automatic,fwd,sedan,brown
+1250,1988,ford,bronco ii,fair,6 cylinders,gas,90000,manual,4wd,SUV,black
+1500,1988,,1988,good,6 cylinders,gas,89000,manual,4wd,,
+48900,2018,chevrolet,silverado 2500 hd ltz,like new,8 cylinders,diesel,43034,automatic,4wd,truck,black
+9988,2014,kia,sorento lx,good,4 cylinders,gas,121259,automatic,fwd,SUV,red
+24888,2019,ford,f150 regular cab xl,excellent,6 cylinders,gas,8176,automatic,rwd,pickup,white
+28490,2020,nissan,murano,,,gas,6154,automatic,fwd,,blue
+31968,2020,infiniti,q50,,,gas,27441,automatic,,,white
+21334,2021,toyota,corolla,,,gas,7277,automatic,fwd,,white
+16888,2008,toyota,fj cruiser 4x4,good,6 cylinders,gas,188096,automatic,4wd,SUV,yellow
+19888,2015,mercedes-benz,benz ml 450,excellent,6 cylinders,gas,111261,automatic,4wd,SUV,silver
+31888,2015,gmc,1500 yukon slt,good,8 cylinders,gas,109947,automatic,rwd,SUV,white
+500,2021,,SPECIAL FINANCE PROGRAM 2020,fair,other,other,1400,other,,bus,green
+10997,2010,ford,explorer sport trac,,,gas,137906,automatic,4wd,,
+29800,2019,chevrolet,silverado 1500,,8 cylinders,gas,39000,automatic,4wd,,red
+1350,1999,,plymouth voyager,fair,6 cylinders,gas,200000,automatic,,,
+50990,2017,mercedes-benz,s-class,,8 cylinders,gas,68643,automatic,,sedan,black
+9500,1968,pontiac,firebird,,,gas,175000,automatic,,convertible,red
+1300,1969,mercedes-benz,benz,,,gas,12774,automatic,,,
+22500,1929,ford,,,,gas,9999999,automatic,,,
+3999,2003,infiniti,g35 sedan,,6 cylinders,gas,233830,automatic,rwd,sedan,
+5900,2011,ford,fiesta se,,,gas,109000,automatic,,,
+2800,2002,pontiac,grand am gt 1,good,6 cylinders,gas,128783,manual,fwd,,red
+28995,2017,chevrolet,silverado 2500hd,,,gas,102000,automatic,rwd,,
+34950,2016,nissan,titan xd cummins platinum,,,diesel,158159,automatic,4wd,pickup,
+99950,2021,chevrolet,corvette stingray spor,,,gas,510,automatic,rwd,coupe,orange
+29950,1998,pontiac,firebird trans am ws6,,,gas,16429,automatic,rwd,hatchback,black
+39995,1999,dodge,viper rt 10 removable top,,,gas,15897,manual,rwd,convertible,silver
+2550,2004,cadillac,srx,,6 cylinders,gas,224105,automatic,rwd,SUV,white
+8800,2007,gmc,denali,good,8 cylinders,gas,269000,automatic,4wd,,
+1,2012,ford,f250 super duty,,,gas,150000,automatic,4wd,,
+7500,1969,,oldsmobile cutlass,,,gas,80000,automatic,,convertible,blue
+16990,2019,toyota,corolla,,4 cylinders,gas,44752,automatic,fwd,sedan,
+12499,2012,toyota,camry,,4 cylinders,gas,64950,automatic,fwd,sedan,red
+13999,2018,kia,soul,,4 cylinders,gas,46848,automatic,fwd,wagon,white
+28249,2016,toyota,tundra double cab,,8 cylinders,gas,78000,automatic,,pickup,
+7999,2007,toyota,camry,,6 cylinders,gas,67650,automatic,fwd,sedan,custom
+8799,2006,acura,tsx,,4 cylinders,gas,89375,automatic,fwd,sedan,white
+19990,2017,nissan,pathfinder,,6 cylinders,gas,53950,automatic,,SUV,white
+2975,2006,,Suzuki XL-7,,6 cylinders,gas,217353,automatic,rwd,SUV,white
+18800,2000,,INTERNATIONAL 4700 DUMP,,8 cylinders,diesel,193348,automatic,rwd,,white
+19900,2011,ford,f250 service,,8 cylinders,gas,142268,automatic,4wd,,white
+9990,2015,toyota,corolla le,excellent,4 cylinders,gas,125224,automatic,fwd,sedan,
+29950,2014,gmc,sierra 1500,excellent,8 cylinders,gas,139029,automatic,4wd,truck,black
+9990,2009,lexus,rx350,excellent,6 cylinders,gas,163230,automatic,fwd,SUV,
+45950,2014,gmc,sierra 2500hd denali,excellent,8 cylinders,diesel,154289,automatic,4wd,truck,black
+17897,2015,lincoln,mkz,,6 cylinders,gas,91067,other,fwd,sedan,white
+11500,2008,ford,f-250 super duty xl,good,8 cylinders,diesel,283356,automatic,rwd,pickup,white
+7990,2011,bmw,328i,excellent,6 cylinders,gas,123000,automatic,rwd,sedan,
+9990,2009,bmw,x5,excellent,6 cylinders,gas,93659,automatic,4wd,SUV,
+11990,2011,honda,crv ex-l,excellent,4 cylinders,gas,109000,automatic,fwd,SUV,
+15990,2015,chevrolet,camaro,,6 cylinders,gas,53000,automatic,rwd,other,black
+14700,2015,honda,cr-v ex-l,excellent,4 cylinders,gas,70672,automatic,4wd,SUV,brown
+500,2021,,SPECIAL FINANCE PROGRAM 2020,fair,other,other,1400,other,,bus,green
+11295,2014,chevrolet,sonic,,4 cylinders,gas,49019,automatic,fwd,hatchback,red
+4350,2015,,smart fortwo,good,3 cylinders,gas,69974,automatic,,coupe,white
+2450,2000,infiniti,qx4,good,6 cylinders,gas,246653,automatic,4wd,SUV,silver
+12950,2013,lexus,ct200h hybrid,good,4 cylinders,gas,77000,automatic,fwd,,black
+30488,2020,infiniti,q50,,,gas,29366,automatic,rwd,,black
+17989,2018,toyota,camry,,,gas,120943,automatic,fwd,,silver
+22602,2021,toyota,corolla,,,gas,10883,automatic,fwd,,red
+12977,2011,lexus,rx,,,gas,140994,automatic,,,
+12995,2008,ford,f150 xl,,,gas,93146,automatic,,,green
+36995,2012,ford,f250 super duty 4x4,,,gas,41364,automatic,4wd,,silver
+31995,2017,ford,f350 super duty,,,gas,129638,automatic,,,white
+25995,2015,gmc,sierra 2500hd,,,gas,126690,automatic,,,red
+29990,2019,mazda,mx-5 miata grand touring,good,,gas,5247,other,rwd,other,
+34995,2015,ford,f250 super duty 4x4,,,gas,84526,automatic,4wd,,white
+31995,2012,ford,f350 super duty,,,gas,24692,automatic,,,white
+34995,2017,ford,f250 sd xlt,,,gas,138052,automatic,4wd,,white
+16590,2016,jeep,renegade sport suv 4d,good,,gas,35835,other,4wd,other,red
+16995,2008,chevrolet,express 3500,,,gas,158114,automatic,,,white
+25590,2017,jeep,grand cherokee laredo sport,good,6 cylinders,other,31315,other,4wd,SUV,silver
+12995,2016,chrysler,200,,,gas,72754,automatic,,,black
+27995,2017,nissan,nv2500 hd cargo,,,gas,48769,automatic,,,white
+24995,2012,ford,f250 xl super duty,,,gas,52377,automatic,,,grey
+28995,2012,ford,econoline commercial,,,gas,93923,automatic,,,white
+27995,2012,ford,f350 super duty,,,gas,45822,automatic,,,white
+13995,2015,nissan,nv200,,,gas,86580,automatic,,,white
+32995,2012,ford,f250 super duty,,,gas,37473,automatic,4wd,,white
+4995,2005,ford,freestar ses,,,gas,121724,automatic,,,silver
+27995,2012,ford,f250 super duty,,,gas,26896,automatic,,,white
+24995,2012,ford,f-250 super duty,,,gas,40023,automatic,,,green
+36995,2013,chevrolet,silverado 3500hd,,,gas,58056,automatic,,,white
+36995,2017,chevrolet,silverado 2500hd,,,gas,43553,automatic,4wd,,white
+39590,2017,chevrolet,camaro ss coupe 2d,good,8 cylinders,gas,10496,other,rwd,coupe,white
+26990,2016,ford,f150 regular cab xl pickup,good,6 cylinders,gas,14230,other,,pickup,black
+36990,2015,chevrolet,tahoe lt sport utility,good,8 cylinders,other,51677,other,,other,black
+5500,2001,ford,e350 van,fair,,diesel,340000,automatic,fwd,van,white
+1500,2011,ford,crown victoria,,,gas,123000,automatic,,,
+25500,2015,jaguar,xj,,6 cylinders,,71114,automatic,rwd,sedan,black
+3500,1995,honda,civic del sol si,good,4 cylinders,gas,215000,manual,fwd,convertible,red
+9900,2013,gmc,terrain,,6 cylinders,gas,148285,automatic,fwd,,black
+20900,2017,ford,f150,,8 cylinders,gas,147124,automatic,4wd,,white
+29900,2016,jeep,wrangler,,6 cylinders,gas,131091,automatic,4wd,,white
+7200,2007,toyota,highlander,excellent,4 cylinders,gas,155490,automatic,fwd,SUV,silver
+45300,2018,ram,3500 big horn,excellent,6 cylinders,diesel,34125,automatic,4wd,truck,black
+3500,2006,ford,f-150,,,gas,246000,automatic,,,
+17500,2001,ram,3500,good,6 cylinders,diesel,178000,manual,4wd,truck,white
+5500,2010,hyundai,accent,good,4 cylinders,gas,114988,automatic,fwd,hatchback,blue
+18950,2009,jeep,wrangler,excellent,,gas,,automatic,4wd,,
+6900,2008,ford,escape hev,good,4 cylinders,hybrid,103550,automatic,fwd,SUV,white
+10900,2010,honda,accord crosstour exl,good,6 cylinders,gas,97804,automatic,fwd,wagon,grey
+8900,2014,fiat,500l lounge,good,4 cylinders,gas,84778,automatic,fwd,hatchback,red
+8900,2003,ford,f250 lariat,good,8 cylinders,diesel,247000,automatic,rwd,truck,red
+2675,1996,toyota,camry,,4 cylinders,gas,164719,automatic,fwd,sedan,green
+29995,2016,ford,f-250,,,diesel,235000,automatic,4wd,,
+22995,2012,ford,f-350,,,diesel,210000,automatic,4wd,,
+21800,2018,ford,f150,,8 cylinders,gas,143603,automatic,4wd,,silver
